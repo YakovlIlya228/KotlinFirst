@@ -3,4 +3,5 @@
     <string name="news">News</string>
     <string name="lessons">Lessons</string>
     <string name="code_editor">Code Editor</string>
+    <string name="run_code">Run code</string>
 </resources>
